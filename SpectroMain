@@ -1,0 +1,11 @@
+if game.PlaceId == 189707 then --Natural Disaster
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/yt-flix/nat/main/SpectroNatural"))();
+end
+
+if game.PlaceId == 6305942109 then --Laundry Simulator
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/yt-flix/Laundry/main/LaundrySpectro"))();
+end
+
+if game.PlaceId == 155615604 then --Prison Life
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/yt-flix/Prison/main/PrisonSpectro"))();
+end
