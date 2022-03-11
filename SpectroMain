@@ -13,3 +13,7 @@ end
 if game.PlaceId == 662417684 then --Lucky Blocks
    loadstring(game:HttpGet("https://raw.githubusercontent.com/yt-flix/Lucky/main/LuckyBlocksSpectro"))();
 end
+
+if game.PlaceId == 537413528 then --Build A Boat For Treasure
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/yt-flix/Build/main/BuildABoatSpectro"))();
+end
